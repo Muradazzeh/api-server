@@ -1,4 +1,10 @@
 # api-server
+### this is My wok links 
+* this is the link for pull request [pull request](https://github.com/Muradazzeh/api-server/pull/1)
+* this is the link for heroku app [heroku app](https://murad-api-server.herokuapp.com/)
+* this is the git hub action link [git hup action](https://github.com/Muradazzeh/api-server/actions)
+* this is the link for main repo [link for repo](https://github.com/Muradazzeh/api-server)
+### Introduction 
 * database normalization , what is normalization : it is way or technique to reduces data redundancy and eliminate repetitive data  , by dividing table into to smaller tables ,
 * keys in data base , what is the key types : primary key , composite key and foreign key
     * primary key : is a unique value in the table can be as identifier for table , and it can`t be null 
@@ -40,7 +46,11 @@
 * Also I preperd Jest test for the server handleing error tests , main page , and for the both routes CRUD methodes as shown  , but I  got small issue in the CarDetails route , the update method it keeps give test fail :
 ![link](./src/image/Screenshot%20(204).png)
 
+* THis is the git hub action 
+![link](./src/image/Screenshot%20(206).png)
 
+*  This is the herokue app  
+![link](./src/image/Screenshot%20(207).png)
 
 
 
