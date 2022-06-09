@@ -1,5 +1,5 @@
-# api-server
-### this is My wok links 
+# Api-server
+### this is My work links 
 * this is the link for pull request [pull request](https://github.com/Muradazzeh/api-server/pull/1)
 * this is the link for heroku app [heroku app](https://murad-api-server.herokuapp.com/)
 * this is the git hub action link [git hup action](https://github.com/Muradazzeh/api-server/actions)
