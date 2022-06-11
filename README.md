@@ -31,6 +31,9 @@
 * this is the UML digram it is not quite good , but I think is ok 
 ![link](./src/image/Screenshot%20(201).png)
 
+* I did better update for the UML digram may this look better 
+![link](./src/image/uml.jpg)
+
 * then I start with the routes , I prepaerd 2 routes , one for the Car and the other fo the Car details routes 
 
 * we learn new way to do the CRUD methods by crating class for all model with the CURD method then we can call the method any time we want .
